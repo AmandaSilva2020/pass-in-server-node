@@ -19,3 +19,6 @@ Content-Type: application/json
 
 ###
 GET http://localhost:3333/events/f400d486-4f7c-4284-ade4-88afa7358226
+
+###
+GET http://localhost:3333/attendees/1/badge
